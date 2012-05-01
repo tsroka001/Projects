@@ -1,0 +1,48 @@
+	##### ##### ##   ##### ###  ##  #   #
+	#       #   # #    #    #  #  # ##  #
+	#####   #   #  #   #    #  #  # # # #
+	    #   #   #####  #    #  #  # #  ##
+	#####   #   #   #  #   ###  ##  #   #
+
+            #   #  ##  ###  ###  #### ###
+ 	    #   # #  # #  # #  # #    #  #
+   	    ##### #  # ###  ###  ##   ###
+   	    #   # #  # #    #    #    #  #
+   	    #   #  ##  #    #    #### #  #
+
+This is a modification of the Henway game presented 
+to us in class. This game uses graphics ripped from
+the PC classic "Starcraft". The goal of the game is 
+to streer your character ( the science vessel ) to
+the space station at the bottom of the screen.  If
+your science vessel hit any incoming spaceship then
+it will reset to its starting position. Sound 
+effects mimicing the voice of the science vessel 
+are randomly played as the player presses keys.
+After the player crashes three times the game 
+freezes and a popup with the players score is 
+displayed. The player can them left click on the
+screen to restart the game.
+
+
+
+
+Image and Sound credits:
+
+Starcraft, Blizzard Entertainment
+
+http://www.freewebs.com/fettcomic/Protoss119ArbiterSS.bmp
+
+http://www.freewebs.com/fettcomic/JYAPScoutSS.bmp
+
+http://img250.imageshack.us/img250/5497/carrierinterceptortealsar9.png
+
+http://oi39.tinypic.com/2po30jk.jpg
+
+http://t0.gstatic.com/images?q=tbn:4R_4hJve5qBl5M:http://wiki.teamliquid.net/starcraft/images/e/ee/Sciencevessel.png&t=1
+
+http://wiki.teamliquid.net/starcraft/images2/c/c7/Scrap_Station.jpg
+
+http://www.vgmusic.com/music/console/nintendo/snes/GWmerc2.mid
+
+http://wavs.unclebubby.com/starcraft/

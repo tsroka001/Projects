@@ -1,0 +1,42 @@
+//-----------------------------------------------------------------
+// Station Hopper Resources
+// RC Source - Hopper.rc
+//-----------------------------------------------------------------
+
+//-----------------------------------------------------------------
+// Include Files
+//-----------------------------------------------------------------
+#include "Resource.h"
+
+//-----------------------------------------------------------------
+// Icons
+//-----------------------------------------------------------------
+IDI_HOPPER         ICON         "Res\\Hopper.ico"
+IDI_HOPPER_SM      ICON         "Res\\Hopper_SM.ico"
+
+//-----------------------------------------------------------------
+// Bitmaps
+//-----------------------------------------------------------------
+IDB_STATIONS       BITMAP       "Res\\Stations.bmp"
+IDB_VESSEL         BITMAP       "Res\\Vessel.bmp"
+IDB_ARBITER        BITMAP       "Res\\Arbiter.bmp"
+IDB_SCOUT          BITMAP       "Res\\Scout.bmp"
+IDB_CARRIER        BITMAP       "Res\\Carrier.bmp"
+IDB_INTERCEPTOR    BITMAP       "Res\\Interceptor.bmp"
+IDB_BATTLECRUISER  BITMAP       "Res\\BattleCruiser.bmp"
+IDB_HEART          BITMAP       "Res\\Heart.bmp"
+
+//-----------------------------------------------------------------
+// Wave Sounds
+//-----------------------------------------------------------------
+IDW_CELEBRATE      WAVE         "Res\\Celebrate.wav"
+IDW_GAMEOVER       WAVE         "Res\\GameOver.wav"
+IDW_V_1			   WAVE         "Res\\tvepss00.wav"
+IDW_V_2            WAVE         "Res\\tvepss01.wav"
+IDW_V_3            WAVE         "Res\\tvepss02.wav"
+IDW_V_4            WAVE         "Res\\tvepss03.wav"
+IDW_V_5            WAVE         "Res\\tvepss04.wav"
+IDW_V_6            WAVE         "Res\\tvepss05.wav"
+IDW_V_7            WAVE         "Res\\tvepss06.wav"
+IDW_V_8            WAVE         "Res\\tveyes00.wav"
+IDW_EXPLODE        WAVE         "Res\\explode.wav"

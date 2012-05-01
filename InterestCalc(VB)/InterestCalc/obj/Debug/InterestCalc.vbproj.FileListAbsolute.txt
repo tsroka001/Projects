@@ -1,0 +1,23 @@
+E:\VB\InterestCalc\InterestCalc\bin\Debug\InterestCalc.exe
+E:\VB\InterestCalc\InterestCalc\bin\Debug\InterestCalc.pdb
+E:\VB\InterestCalc\InterestCalc\bin\Debug\InterestCalc.xml
+E:\VB\InterestCalc\InterestCalc\obj\Debug\ResolveAssemblyReference.cache
+E:\VB\InterestCalc\InterestCalc\obj\Debug\WindowsApplication1.Form1.resources
+E:\VB\InterestCalc\InterestCalc\obj\Debug\WindowsApplication1.Resources.resources
+E:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.vbproj.GenerateResource.Cache
+E:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.exe
+E:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.xml
+E:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.pdb
+G:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.exe
+G:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.xml
+G:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.pdb
+G:\VB\InterestCalc\InterestCalc\bin\Debug\InterestCalc.exe
+G:\VB\InterestCalc\InterestCalc\bin\Debug\InterestCalc.pdb
+G:\VB\InterestCalc\InterestCalc\bin\Debug\InterestCalc.xml
+G:\VB\InterestCalc\InterestCalc\obj\Debug\ResolveAssemblyReference.cache
+G:\VB\InterestCalc\InterestCalc\obj\Debug\WindowsApplication1.Form1.resources
+G:\VB\InterestCalc\InterestCalc\obj\Debug\WindowsApplication1.Resources.resources
+G:\VB\InterestCalc\InterestCalc\obj\Debug\InterestCalc.vbproj.GenerateResource.Cache
+G:\Visual Basic 2008\InterestCalc\InterestCalc\obj\Debug\InterestCalc.exe
+G:\Visual Basic 2008\InterestCalc\InterestCalc\obj\Debug\InterestCalc.xml
+G:\Visual Basic 2008\InterestCalc\InterestCalc\obj\Debug\InterestCalc.pdb

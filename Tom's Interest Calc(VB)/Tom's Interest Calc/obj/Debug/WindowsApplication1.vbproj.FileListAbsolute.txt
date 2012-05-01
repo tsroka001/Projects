@@ -1,0 +1,12 @@
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Real Estate Calculator.exe
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Real Estate Calculator.pdb
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Real Estate Calculator.xml
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\R_E_Calc.Resources.resources
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Real Estate Calculator.exe
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Real Estate Calculator.xml
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Real Estate Calculator.pdb
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\R_E_Calc.frmAbout.resources
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\R_E_Calc.frmRealEstateCalc.resources
+C:\Users\openlab\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\R_E_Calc.frmProperties.resources
